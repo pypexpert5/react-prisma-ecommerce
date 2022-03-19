@@ -1,4 +1,4 @@
-# prisma-ecommerce
+# react-prisma-ecommerce
 <p align="center">
   <img height=100" src="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/cc/5b/b9/cc5bb931b5f5fb8914609572a9dc51c1.png">
 </p>
@@ -13,13 +13,12 @@ Homepage view             |  Browsing product view          | Cart view         
 ### Project paused for a moment while I'm finishing https://github.com/Weakky/ra-data-prisma.  
 **This will allow the backoffice to be far more robust, maintainable, and easier to develop.**
 
-**[Read more about it here](https://www.prisma.io/forum/t/prisma-with-react-admin-build-a-working-backoffice-in-a-few-hours/4400)**
 
 # Features
 
 💁 **Beautiful, easily customizable react-native app**
 
-💨 **GraphQL backend powered by [Prisma.io](https://www.prisma.io/)**
+💨 **GraphQL backend powered by pypexpert5**
 
 🏦 **Support several shops behind the same application**
 
